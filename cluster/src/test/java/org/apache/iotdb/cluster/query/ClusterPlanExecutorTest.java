@@ -18,7 +18,7 @@
  */
 
 package org.apache.iotdb.cluster.query;
-
+ 
 import org.apache.iotdb.db.exception.StorageEngineException;
 import org.apache.iotdb.db.exception.metadata.MetadataException;
 import org.apache.iotdb.db.exception.query.QueryProcessException;
